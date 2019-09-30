@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Factorial"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Calculator",
             "request": "launch",
             "mainClass": "Calculator"
